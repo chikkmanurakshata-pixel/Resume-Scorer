@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="ResumeScorer.Api/ResumeScorer.Api.csproj" />
+  <Project Path="ResumeScorer.Tests/ResumeScorer.Tests.csproj" />
 </Solution>
